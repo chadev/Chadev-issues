@@ -1,4 +1,3 @@
-ChaDev-Issues
-=============
+#Chadev issues & ideas
 
-This is a repository for filing issues and ideas for the ChaDev group.
+This is a repository for filing issues and ideas for the Chadev group.
