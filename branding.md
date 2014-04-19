@@ -8,7 +8,7 @@ The correct representation of the title is Chadev, a single word, first letter c
 
 *   The logo includes brackets, however I'm not sure we want to try to use that everywhere. Opinions?
 *   We should set a preference order list as far the availability of alternate names on various social media outlets, i.e.: 
-        1. chadev
-        2. chadevs
-        3. chatdev
-        4. etc, or none of the above.
+            1. chadev
+            2. chadevs
+            3. chatdev
+            4. etc, or none of the above.
